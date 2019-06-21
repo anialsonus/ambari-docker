@@ -1,0 +1,6 @@
+[ambari_2_6_2_centos7]
+name=ambari_2_6_2_centos7
+baseurl=https://storage.googleapis.com/arenadata-repo/ambari/2.6.2/centos7/
+gpgcheck=0
+enabled=1
+priority=1
